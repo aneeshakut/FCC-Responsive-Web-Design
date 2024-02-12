@@ -1,4 +1,4 @@
-#FreeCodeCamp Responsive Web Design Certification Projects
+<b><i>FreeCodeCamp Responsive Web Design Certification Projects</i></b>
 
 Source Codes of projects in the certification course which include:
 <br>
