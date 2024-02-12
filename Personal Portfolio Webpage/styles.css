@@ -1,0 +1,8 @@
+@media media-type (media-feature){
+/*Styles go here*/
+}
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
