@@ -1,0 +1,6 @@
+@media (min-width:200px){
+   p {
+     font-size: 20;
+     border: 1px solid;
+   }
+ }
